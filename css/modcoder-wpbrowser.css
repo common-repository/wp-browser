@@ -1,0 +1,41 @@
+
+#mod_coder_content_wrapper {width:100%;float:left;padding:0;margin:0;background:none;}
+.modcoder_pagerlayer {float:left;width:100%;padding:0;margin:0;border:none;background:none;}
+.modcoder_pager_wrapper {float:left;margin:0;}
+.modcoder_pager_buttons {float:left;padding:0;margin:0;background:none;overflow:hidden;}
+body .modcoder_button_container, body .modcoder_button_container td {padding:0;margin:0;border:none;background:none;border-width:0;}
+.modcoder_first, .modcoder_left, .modcoder_right, .modcoder_last {float:left;}
+body div.modcoder_pager_wrapper a {display:inline-block;text-align:center;margin:0;outline:none;line-height:100%;}
+body div.modcoder_pager_wrapper a.modcoder_current_page {cursor: default;}
+.modcoder_pager_slider_pl {float:left;padding:0;margin:0;line-height:normal;font-size:1px;}
+.modcoder_blur_wrapper, .modcoder_blur_item {border:none;margin:0;padding:0;line-height:normal;font-size:1px;background-image:none;}
+.modcoder_blur_wrapper {width:15px;position:absolute;background:none;}
+.modcoder_blur_item {width:1px;float:left;}
+body #modcoder_overlay {position:fixed;padding:0;margin:0;border:none;}
+#modcoder_ajax_status_ghost, #modcoder_ajax_status {position:fixed;margin:0;background-repeat:no-repeat;text-align:center;line-height:100%;white-space:nowrap;}
+.modcoder_baloon {position:absolute;margin:0;padding:0;border:0;}
+.modcoder_baloon_arrow {width:100%;float:left;margin:-1px 0 0 0;border:none;}
+.modcoder_a_baloon {float:left;margin:0;line-height:normal;}
+.modcoder_a_cbaloon {float:left;padding:0;margin:0;border:none;overflow:hidden;}
+.modcoder_announcement img, a.modcoder_announcement img {padding:0;border:none;}
+a.modcoder_announcement {outline:none;}
+a.modcoder_announcement:hover img {text-decoration:none;}
+.modcoder_ghost_cbaloon {position:absolute;padding:0;margin:0;border:none;left:-600px;}
+.modcoder_announcement, a.modcoder_announcement {display:block;float:left;line-height:normal;margin:0;text-decoration:none;}
+.modcoder_announcement b {line-height:160%;}
+.modcoder_announcement table {width:100%;padding:0;margin:0;border:none;}
+.modcoder_announcement td b {line-height:normal;}
+.modcoder_announcement div {border:none;padding:0;margin:0;overflow:hidden;}
+.modcoder_announcement td {overflow:hidden;padding:0;margin:0;border:none;vertical-align:middle !important;text-align:left;}
+a.modcoder_announcement table {cursor:pointer;}
+.modcoder_announcement:hover span {text-decoration: underline;}
+.modcoder_announcement_spacer {float:left;width:100%;background:none;padding:0;margin:0;border:none;}
+.modcoder_a_baloon_ajax {width:100%;float:left;border:none;margin:0;padding:0;cursor:wait;}
+.modcoder_admin_on_site {width:100%;float:left;border:none;margin:0;padding:0 0 10px 0;text-align:center;font-size:10px;line-height:100%;}
+.modcoder_scrl_wrapper {float:left;margin:0;padding-left:0;padding-bottom:0;padding-right:0;border:none;font-size:1px;}
+.modcoder_scrl_bar, .modcoder_scrl_slider {float:left;font-size:1px;margin:0;overflow:hidden;}
+.modcoder_scrl_bar {cursor:default;}
+.modcoder_scrl_slider {cursor:pointer;}
+.modcoder_scrl_ghost {float:left;border:none;margin:0;padding:0;font-size:1px;background:none;}
+.modcoder_scrl_asgrid {background:url(../images/scrl_bg.gif) repeat;}
+.modcoder_scrl_asgrid:hover {background:url(../images/scrl_bg_hover.gif) repeat;}

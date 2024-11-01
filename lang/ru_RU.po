@@ -1,0 +1,924 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Browser\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-20 01:44+0500\n"
+"PO-Revision-Date: 2011-07-20 01:44+0500\n"
+"Last-Translator: ModCoder <tim@modcoder.org>\n"
+"Language-Team: ModCoder <tim@modcoder.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\WebServers\\home\\my.tim\\www\\wp-content\\plugins\\modcoder-wpbrowser\n"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:55
+msgid "We are working with content. <u>Temporarily disabled</u> the function:<br />"
+msgstr "Мы работаем с контентом. <u>Временно отключены</u> функции:<br />"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:238
+msgid "Page №"
+msgstr "Страница № "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:239
+msgid "Scroll back"
+msgstr "Прокрутка назад "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:240
+msgid "Scroll next"
+msgstr "Прокрутка вперед "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:241
+msgid "First"
+msgstr "В начало"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:242
+msgid "Last"
+msgstr "В конец"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:266
+msgid "Loading..."
+msgstr "Загрузка"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:424
+msgid "AJAX Navigation"
+msgstr "AJAX Навигация"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:426
+msgid " and "
+msgstr " и "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:427
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:241
+msgid "Baloon of Announcements"
+msgstr "Всплывающая панель анонсов"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:539
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:544
+msgid "Sorry, but this <u>page is not found</u>. Please refresh this page and try again. Thank you!"
+msgstr "Простите, но эта <u>страница не найдена</u>. Пожалуйста обновите эту страницу и попробуйте снова. Спасибо!"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:569
+msgid "This post is password protected."
+msgstr "Этот пост защищен паролем."
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:797
+msgid ""
+"\\n"
+"\\n"
+"You are logged into your account.\\n"
+"\\n"
+"\\n"
+"When the page is loaded you have\\n"
+"been not logged in and likely to\\n"
+"display properly content is recommended\\n"
+"to upgrade current page.\\n"
+"\\n"
+"\\n"
+"Do you want refresh the page automatically?\\n"
+"\\n"
+"\\n"
+msgstr ""
+"\\n"
+"\\n"
+"Вы вошли в свой аккаунт.\\n"
+"\\n"
+"\\n"
+"Эта страница была загружена в то время\\n"
+"когда вы не были авторизованы на сайте и\\n"
+"вероятно для правильного отображения\\n"
+"контента рекомендуется обновить текущую\\n"
+"страницу.\\n"
+"\\n"
+"\\n"
+"Обновить страницу автоматически?\\n"
+"\\n"
+"\\n"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/modcoder-wpbrowser.php:797
+msgid ""
+"\\n"
+"\\n"
+"You came out of the your account.\\n"
+"\\n"
+"\\n"
+"This page was loaded at a time when\\n"
+"you have logged in and likely to display\\n"
+"properly content is recommended to upgrade\\n"
+"current page.\\n"
+"\\n"
+"\\n"
+"Do you want refresh the page automatically?\\n"
+"\\n"
+"\\n"
+msgstr ""
+"\\n"
+"\\n"
+"Вы вышли из аккаунта.\\n"
+"\\n"
+"\\n"
+"Эта страница была загружена в то время\\n"
+"когда вы были авторизованы на сайте и\\n"
+"вероятно для правильного отображения\\n"
+"контента рекомендуется обновить текущую\\n"
+"страницу.\\n"
+"\\n"
+"\\n"
+"Обновить страницу автоматически?\\n"
+"\\n"
+"\\n"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:12
+msgid "Set default values?"
+msgstr "Установить значения по умолчанию?"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:137
+msgid "Please help the project,"
+msgstr "Пожалуйста помогите проекту,"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:137
+msgid "register"
+msgstr "зарегистрируйте плагин"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:137
+msgid "this plugin."
+msgstr "этот плагин."
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:138
+msgid "Serial number"
+msgstr "Серийный номер"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:142
+msgid "unregistered"
+msgstr "незарегистрировано"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:142
+msgid "registered"
+msgstr "зарегистрировано"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:176
+msgid "Attention!"
+msgstr "Внимание!"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:176
+msgid "Folders below are write-protected. Please setup them permissions as writeable.<br />For example: 777 or 775 or 755. These folders are needed for user preferences and cache."
+msgstr "Ниже указаны папки для которых нужно установить разрешение на запись.<br />Например: 777, 775 или 755. Эти папки нужны для пользовательских настроек и кэша."
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:189
+msgid "Options"
+msgstr "Опции"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:198
+msgid "Design"
+msgstr "Дизайн"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:207
+msgid "Additionally"
+msgstr "Дополнительно"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:216
+msgid "Changes saved !"
+msgstr "Изменения сохранены !"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:218
+msgid "plugin switch"
+msgstr "выключатель плагина"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:219
+msgid "State of plugin"
+msgstr "Состояние плагина"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:221
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:284
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:316
+msgid "Enabled"
+msgstr "Включено"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:222
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:285
+msgid "Disabled"
+msgstr "Выключено"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:224
+msgid "configuration"
+msgstr "конфигурация"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:225
+msgid "Using at the home page"
+msgstr "Использовать на главной странице"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:227
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:238
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:243
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:248
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:253
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:270
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:275
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:304
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:309
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:329
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:350
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:380
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:456
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:504
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:690
+msgid "Enable"
+msgstr "Включено"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:228
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:239
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:244
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:249
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:254
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:271
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:276
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:305
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:310
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:330
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:351
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:381
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:457
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:505
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:689
+msgid "Disable"
+msgstr "Выключено"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:230
+msgid "Position"
+msgstr "Позиция"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:232
+msgid "Above posts"
+msgstr "Над постами"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:233
+msgid "Under the posts"
+msgstr "Под постами"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:234
+msgid "Both positions"
+msgstr "Сверху и Снизу"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:236
+msgid "AJAX navigation (this option is not supported in IE6)"
+msgstr "AJAX навигация  (эта опция не поддерживается в IE6)"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:246
+msgid "Scrollbar"
+msgstr "Полоса прокрутки"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:251
+msgid "Show Tooltips"
+msgstr "Показывать хинты"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:257
+msgid "Tooltip text on the buttons"
+msgstr "Хинт на кнопках"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:259
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:261
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:263
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:265
+msgid "Tooltip on arrow"
+msgstr "Хинт на стрелке"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:259
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:268
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:408
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:418
+msgid "PREV"
+msgstr "ПРЕДЫДУЩЕЕ"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:261
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:268
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:410
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:420
+msgid "NEXT"
+msgstr "СЛЕДУЮЩЕЕ"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:263
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:273
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:412
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:422
+msgid "FIRST"
+msgstr "ПЕРВОЕ"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:265
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:273
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:414
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:424
+msgid "LAST"
+msgstr "ПОСЛЕДНЕЕ"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:268
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:273
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:560
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:576
+msgid "Arrows"
+msgstr "Стрелки"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:268
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:273
+msgid "and"
+msgstr " и "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:279
+msgid "scrolling"
+msgstr "прокрутка"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:282
+msgid "Dynamic scrolling pager"
+msgstr "Динамическая прокрутка "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:289
+msgid "Number of buttons for scrolling"
+msgstr "Количество кнопок за прокрутку"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:293
+msgid "Type of scroll"
+msgstr "Тип прокрутки "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:295
+msgid "Smooth scrolling"
+msgstr "Плавная прокрутка "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:296
+msgid "Fast scroll"
+msgstr "Быстрая прокрутка "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:298
+msgid "Scroll speed (1 - fastest)"
+msgstr "Скорость прокрутки (1 - самая быстрая) "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:302
+msgid "Scrolling by dragging the mouse"
+msgstr "Прокрутка перетаскиванием мышкой "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:307
+msgid "Scrolling by mouse wheel"
+msgstr "Прокрутка колесиком мыши "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:314
+msgid "JQuery"
+msgstr "JQuery"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:317
+msgid "Disabled (if JQuery is already connected from the other plugins or in your theme)"
+msgstr "Выключено (если JQuery уже подключен из других модулей или темы) "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:320
+msgid "Load JQuery from..."
+msgstr "Загружать JQuery с"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:322
+msgid "Your site"
+msgstr "Вашего сайта "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:327
+msgid "Compatibility with other JS frameworks"
+msgstr "Режим совместимости с другими JS фреймворками"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:335
+msgid "the boundaries"
+msgstr "границы пейджера "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:337
+msgid "Type of boundaries"
+msgstr "Тип границ"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:337
+msgid "Strong"
+msgstr "Строгие"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:337
+msgid "Auto"
+msgstr "Автоматические"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:337
+msgid "Smooth"
+msgstr "Сглаженные"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:341
+msgid "The background color under the WP-BROWSER"
+msgstr "Цвет фона под пейджером WP-BROWSER"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:346
+msgid "animation of the AJAX navigation"
+msgstr "анимация при AJAX навигации "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:347
+msgid "AJAX Status"
+msgstr "AJAX Статус "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:348
+msgid "Use image on AJAX status"
+msgstr "Показать картинку в AJAX статусе "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:354
+msgid "AJAX status image"
+msgstr "Картинка AJAX статуса "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:355
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:419
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:421
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:423
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:425
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:650
+msgid "Now"
+msgstr "Сейчас"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:357
+msgid "Text on AJAX status"
+msgstr "Текст в AJAX статусе "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:359
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:516
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:660
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:667
+msgid "Font color"
+msgstr "Цвет шрифта"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:361
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:498
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:656
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:663
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:365
+msgid "Background color of the status"
+msgstr "Цвет фона AJAX статуса "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:367
+msgid "Border color of the status"
+msgstr "Цвет рамки на статусе"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:369
+msgid "Border width of the status"
+msgstr "Толщина рамки на статусе"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:373
+msgid "Indents"
+msgstr "Отступы "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:377
+msgid "AJAX Overlay"
+msgstr "AJAX оверлей"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:378
+msgid "Overlay"
+msgstr "Оверлей"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:384
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:570
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:578
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:640
+msgid "Background color"
+msgstr "Цвет фона "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:386
+msgid "Background transparency"
+msgstr "Прозрачность фона "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:390
+msgid "Effect"
+msgstr "Эффект "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:392
+msgid "without effect"
+msgstr "без эффекта "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:393
+msgid "fade"
+msgstr "фэйд"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:394
+msgid "zoom"
+msgstr "зуминг"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:395
+msgid "lift down"
+msgstr "лифт вниз "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:396
+msgid "lift up"
+msgstr "лифт вверх "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:397
+msgid "smart lift"
+msgstr "смарт лифт "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:401
+msgid "scroll arrows"
+msgstr "стрелки прокрутки "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:402
+msgid "Arrows as"
+msgstr "Стрелки как "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:404
+msgid "Text"
+msgstr "Текст"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:405
+msgid "Images"
+msgstr "Картинки"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:408
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:410
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:412
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:414
+msgid "Text an arrow"
+msgstr "Текст на стрелке "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:418
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:420
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:422
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:424
+msgid "Image an arrow"
+msgstr "Картинка на стрелке "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:427
+msgid "Hiding arrows method"
+msgstr "Метод исчезновения стрелок "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:429
+msgid "Disappearance"
+msgstr "Прятать"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:430
+msgid "Transparency"
+msgstr "Прозрачность"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:433
+msgid "Transparency percentage"
+msgstr "Прозрачность в процентах "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:439
+msgid "buttons"
+msgstr "кнопки"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:440
+msgid "The distance between the buttons"
+msgstr "Расстояние между кнопками"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:444
+msgid "Vertical Indents inside the button"
+msgstr "Вертикальные отступы внутри кнопки"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:448
+msgid "Horizontal Indents inside the button"
+msgstr "Горизонтальные отступы внутри кнопки "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:454
+msgid "Fit width"
+msgstr "Выровнять по ширине "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:462
+msgid "area setting"
+msgstr "область пейджера "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:463
+msgid "Pager align"
+msgstr "Ориентация пейджера "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:465
+msgid "on the left"
+msgstr "слева"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:466
+msgid "on the center"
+msgstr "по центру"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:467
+msgid "on the right"
+msgstr "справа"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:469
+msgid "Top indent"
+msgstr "Отступ сверху"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:473
+msgid "Bottom indent "
+msgstr "Отступ снизу"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:477
+msgid "The width of the pager as a percentage"
+msgstr "Ширина пейджера в процентах"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:481
+msgid "fonts"
+msgstr "шрифты "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:482
+msgid "Font"
+msgstr "Шрифт"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:492
+msgid "Other font..."
+msgstr "Другой шрифт..."
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:495
+msgid "Enter a other font"
+msgstr "Введите другой шрифт "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:502
+msgid "Underline hover"
+msgstr "Подчеркивать при наведении "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:507
+msgid "Color hover"
+msgstr "Цвет при наведении мышкой "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:509
+msgid "Font-weight"
+msgstr "Толщина шрифта "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:518
+msgid "Font color of the current button"
+msgstr "Цвет текста на кнопке текущей страницы "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:520
+msgid "Font-weight on arrows"
+msgstr "Толщина шрифта на стрелках "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:527
+msgid "borders of buttons and arrows"
+msgstr "рамки кнопок и стрелок "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:528
+msgid "Border"
+msgstr "Рамка"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:530
+msgid "no border"
+msgstr "без рамки "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:531
+msgid "border with round corners"
+msgstr "с круглыми углами"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:532
+msgid "simple border"
+msgstr "простая"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:536
+msgid "Border-radius"
+msgstr "Радиус углов "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:543
+msgid "Border style"
+msgstr "Стиль рамки "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:549
+msgid "Border width"
+msgstr "Толщина рамки "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:553
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:568
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:554
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:561
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:642
+msgid "Border color"
+msgstr "Цвет рамки"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:556
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:563
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:678
+msgid "Border color on hover"
+msgstr "Цвет рамки при наведении мышкой "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:558
+msgid "Border color on current"
+msgstr "Цвет рамки у кнопки текущей страницы "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:567
+msgid "background of buttons and arrows"
+msgstr "фон кнопок и стрелок"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:572
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:580
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:676
+msgid "Background color on hover"
+msgstr "Цвет фона при наведении мышкой "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:574
+msgid "Background color on current"
+msgstr "Цвет фона кнопки текущей страницы "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:582
+msgid "scrollbar"
+msgstr "полоса прокрутки "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:583
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:636
+msgid "Indent from pager"
+msgstr "Отступ от пейджера "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:587
+msgid "Scrollbar height"
+msgstr "Высота полосы прокрутки "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:591
+msgid "Scrollbar border radius"
+msgstr "Радиус углов у полосы прокрутки "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:597
+msgid "Scrollbar options"
+msgstr "опции полосы прокрутки "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:598
+msgid "The background of the Scrollbar as"
+msgstr "Фон полосы прокрутки как "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:600
+msgid "color"
+msgstr "цвет"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:601
+msgid "grid"
+msgstr "сетка"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:602
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:603
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:604
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:605
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:606
+msgid "line"
+msgstr "линия"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:608
+msgid "Scrollbar background color"
+msgstr "Цвет фона у полосы прокрутки"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:610
+msgid "Scrollbar border color"
+msgstr "Цвет рамки у полосы прокрутки"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:612
+msgid "Slider options"
+msgstr "Опции бегунка "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:613
+msgid "Slider background"
+msgstr "Цвет фона у бегунка "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:615
+msgid "Slider border color"
+msgstr "Цвет рамки у бегунка "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:621
+msgid "announcements bar"
+msgstr "панель анонсов "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:624
+msgid "Show for"
+msgstr "Показывать для "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:629
+msgid "Bar settings"
+msgstr "Настройка панели анонсов "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:630
+msgid "Width"
+msgstr "Ширина "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:632
+msgid "Inner indents"
+msgstr "Внутренние отступы"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:644
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:680
+msgid "Border radius"
+msgstr "Радиус углов"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:649
+msgid "AJAX image"
+msgstr "Картинка AJAX статуса"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:651
+msgid "Arrow height"
+msgstr "Высота стрелки"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:655
+msgid "Announcement title"
+msgstr "Заголовок анонса "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:662
+msgid "Announcement text"
+msgstr "Текст анонса"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:669
+msgid "On hover"
+msgstr "При наведении мышкой "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:670
+msgid "Action"
+msgstr "Действие "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:672
+msgid "underline"
+msgstr "подчеркивать "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:673
+msgid "toggle background"
+msgstr "выделять фоном"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:686
+msgid "Announcement settings"
+msgstr "Настройка анонсов"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:687
+msgid "Show thumbnail"
+msgstr "Показывать пиктограмму "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:693
+msgid "Thumbnail width"
+msgstr "Ширина пиктограммы "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:697
+msgid "Thumbnail indent"
+msgstr "Отступ пиктограммы "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:701
+msgid "Thumbnail position"
+msgstr "Позиция пиктограммы"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:703
+msgid "left"
+msgstr "с лева"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:704
+msgid "right"
+msgstr "с права "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:707
+msgid "The distance between the announcements"
+msgstr "Расстояние между анонсами"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:711
+msgid "Length of the announcement"
+msgstr "Длина анонса "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:712
+msgid "words"
+msgstr "слов(а) "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:713
+msgid "Announcement as"
+msgstr "Анонс как "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:715
+msgid "text"
+msgstr "текст"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:716
+msgid "link"
+msgstr "ссылка"
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:724
+msgid "Save Changes"
+msgstr "Сохранить изменения "
+
+#: C:\WebServers\home\my.tim\www\wp-content\plugins\modcoder-wpbrowser/includes/modcoder-wpbrowser-admin.php:724
+msgid "Load Defaults"
+msgstr "Значения по умолчанию "
+
+#~ msgid ""
+#~ "If you want remove the copyright link, please enter the serial number and "
+#~ "click on"
+#~ msgstr ""
+#~ "Если Вы хотите удалить копирайт ссылку, пожалуйста введите серийный номер "
+#~ "и нажмите"
+
+#~ msgid "To get the serial number, please"
+#~ msgstr "Для получения серийного номера, пожалуйста"
+
+#~ msgid "Pick the picture you can here"
+#~ msgstr "Вы можете скачать AJAX картинку отсюда "
+
+#~ msgid "AJAX navigation"
+#~ msgstr "AJAX навигация"
+
+#~ msgid "Page not found"
+#~ msgstr "Страница не найдена"
+
+#~ msgid "<b>404</b><br /><br />Page not found!"
+#~ msgstr "<b>404</b><br /><br />Страница не найдена!"
+
+#, fuzzy
+#~ msgid "PAGE NOT FOUND"
+#~ msgstr "СТРАНИЦА НЕ НАЙДЕНА"
+
+#~ msgid "Information"
+#~ msgstr "Информация"
+
+#~ msgid "Error!"
+#~ msgstr "Ошибка!"
